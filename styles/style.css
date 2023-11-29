@@ -57,7 +57,6 @@
   max-width: 1440px;
 }
 
-.lots,
 .about,
 .footer {
   padding: 90px 50px;
@@ -140,6 +139,11 @@
   word-spacing: 18px;
   text-transform: uppercase;
   z-index: 2;
+}
+
+.lots {
+  padding: 90px 0;
+  max-width: 1340px;
 }
 
 .lots__heading {
